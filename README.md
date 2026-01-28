@@ -1,0 +1,29 @@
+# 💼 Portfólio Pessoal - Leonardo Nascimento Mariano
+
+Portfólio pessoal desenvolvido para apresentar meus projetos e habilidades como desenvolvedor Full Stack.
+
+## 🚀 Tecnologias
+
+- HTML5, CSS3, JavaScript
+- Design Responsivo
+- Animações e Interatividade
+
+## ✨ Destaques
+
+- Preview interativo de projetos
+- Formulário de contato funcional
+- Design moderno e responsivo
+
+## 🌐 Acesse
+
+**[Ver Portfólio Online](https://leonardo-ads-dev.github.io/Portfolio-Leonardo-Nascimento-Mariano/)**
+
+## 📧 Contato
+
+- **Email**: leonardonmariano07@gmail.com
+- **LinkedIn**: [Leonardo Nascimento Mariano](https://www.linkedin.com/in/leonardo-nascimento-mariano)
+- **GitHub**: [@Leonardo-ADS-Dev](https://github.com/Leonardo-ADS-Dev)
+
+---
+
+⭐ Se gostou do projeto, deixe uma estrela!
